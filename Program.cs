@@ -46,3 +46,45 @@ exibirLista();
 //exercício 08 - Exibir a n-ésima posição em uma lista
 //int posicao = int(Console.read());
 //Console.WriteLine(lista[posicao]); - exercicio com erro!
+
+//exercicio 09 - Função a partir de dois números
+float a = 10;
+float b = 2;
+
+float soma1 = a + b;
+float subtracao = a - b;
+float multiplicacao = a * b;
+float divisao = a / b;
+
+Console.WriteLine($"a + b = {soma1}");
+Console.WriteLine($"a - b = {subtracao}");
+Console.WriteLine($"a * b = {multiplicacao}");
+Console.WriteLine($"a / b = {divisao}");
+
+//exercicio 10 e 11 - Lista de Bandas (English test)
+List<string> BandsList = new List<string>();
+
+for (int i=0; i < 5; i++)
+{
+    Console.WriteLine($"{i+1} => Add your 5 favorite Bands!");
+    string bandsNamesTyped = Console.ReadLine()!;
+    BandsList.Add(bandsNamesTyped);
+}
+
+Console.WriteLine(" ");
+foreach (string band in BandsList)
+{
+    Console.WriteLine($"{band}");
+}
+
+//exercicio 12 - Programa de Soma de uma Lista
+
+List<int> ListaNum = new List<int> {1, 2, 3, 4, 5, 6, 7};
+int soma = 0;
+
+foreach (int num in ListaNum)
+{
+    soma += num;
+}
+
+Console.WriteLine($"A soma dos elementos da lista é: {soma}");
