@@ -1,0 +1,14 @@
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\bin\Debug\net7.0\csharp-praticas.exe
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\bin\Debug\net7.0\csharp-praticas.deps.json
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\bin\Debug\net7.0\csharp-praticas.runtimeconfig.json
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\bin\Debug\net7.0\csharp-praticas.dll
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\bin\Debug\net7.0\csharp-praticas.pdb
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\csharp-praticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\csharp-praticas.AssemblyInfoInputs.cache
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\csharp-praticas.AssemblyInfo.cs
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\csharp-praticas.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\csharp-praticas.dll
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\refint\csharp-praticas.dll
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\csharp-praticas.pdb
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\csharp-praticas.genruntimeconfig.cache
+C:\Users\julia\OneDrive\Documentos\FIAP\Juli - FIAP\Alura\C#\csharp-praticas\obj\Debug\net7.0\ref\csharp-praticas.dll
